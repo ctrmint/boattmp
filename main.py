@@ -67,12 +67,12 @@ def main():
     carRegistry = {}
     myCars = vehicle_list(list_name="Rodman Household", owner="Mark Rodman", email="mark@mrodman.com")
     myCars.vehicleList.append(sportscar(
-        registration="GMN270",
+        registration="YXP 134R",
         model="Seven 620R S3",
         manufacturer="Caterham"))
 
     myCars.vehicleList.append(vehicle(
-        registration="R107MAN",
+        registration="MX19 43C",
         model="Seven 420R S3",
         manufacturer="Caterham"))
 
